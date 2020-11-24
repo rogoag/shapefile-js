@@ -26,7 +26,7 @@
     "testling": "^1.6.1"
   },
   "dependencies": {
-    "jszip": "3.5.0",
+    "jszip": "^3.2.0",
     "lie": "^3.0.1",
     "lru-cache": "^2.7.0",
     "parsedbf": "^1.1.0",
